@@ -1,11 +1,13 @@
 # Different-Ways-to-Combine-Arrays-in-JavaScript
 
 1. Concat()
+
   The most basic way is by using the concat() method and concating two different arrays.
 
 2. Using … (Spread Operator) in ES6 As Shortcut
 
-3. Merge Arrays With Push
+3. Merge Arrays With Push 
+
    When you use push, it manipulates or changes the existing array. It does NOT create a new array. So depending on what you're trying to    do. Make sure you keep that in mind.
    Also, when you're trying to push an array to another array. You will need to spread it, otherwise, you will end up getting a nested        array
    
