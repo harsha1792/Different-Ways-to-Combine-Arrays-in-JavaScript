@@ -2,7 +2,7 @@
 
 1. Concat()
 
-  The most basic way is by using the concat() method and concating two different arrays.
+      The most basic way is by using the concat() method and concating two different arrays.
 
 2. Using … (Spread Operator) in ES6 As Shortcut
 
